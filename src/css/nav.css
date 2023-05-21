@@ -1,0 +1,13 @@
+.brand-logo {
+    padding-left: 30px;
+    position: absolute;
+    height:73px;
+    padding-top: 13px;
+    font-size: 25px;
+    letter-spacing:2px ;
+    font-weight: 600;
+    color: whitesmoke;
+}
+.logo{
+    height: 50px; 
+}
