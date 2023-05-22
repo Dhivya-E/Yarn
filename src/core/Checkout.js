@@ -103,7 +103,7 @@ const Checkout = ({ products, setRun = (f) => f, run = undefined }) => {
       {data.clientToken !== null && products.length > 0 ? (
         <div>
           <div className='gorm-group mb-3'>
-            <label className='text-muted'>Delivery address:</label>
+            <label className='text-muted'>Delivery address with Phone number:</label>
             <textarea
               onChange={handleAddress}
               className='form-control'
